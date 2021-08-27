@@ -9,7 +9,7 @@ numero_b = int(input("Digite o segundo numero: "))
 
 def multiplicacao(numero_a,numero_b):
     return numero_a * numero_b
-
+    pass
 if operacao == "+":
     print(soma(numero_a, numero_b))
 if operacao == "-":
